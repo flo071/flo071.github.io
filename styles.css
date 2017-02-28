@@ -5,15 +5,13 @@
     width: 100%;
 }
 
-a,
-a:active {
+a, a:active {
     font-family: courier;
     text-decoration: none;
     color: #000000;
 }
 
-a:hover,
-a:focus {
+a:hover, a:focus {
     font-family: courier;
     text-decoration: underline;
     color: #000000;
