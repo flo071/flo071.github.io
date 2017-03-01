@@ -19,6 +19,7 @@ a:hover, a:focus {
 
 body {
     font-size: 25px;
+    font-family: courier;
     background-color: rgb(255, 255, 255);
     text-align: center;
     align-items: center;
